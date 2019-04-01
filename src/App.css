@@ -1,33 +1,86 @@
-.App {
-  text-align: center;
+aside,
+main {
+  padding: 10px !important;
 }
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+@media (min-width: 992px) {
+  main {
+    padding-left: 0 !important;
+  }
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+aside .inner,
+main .inner {
+  background: #fff;
+  padding: 20px;
+}
+h1 {
+  font-size: 24px;
+  margin-bottom: 0;
+  font-weight: 700;
+}
+h2 {
+  font-size: 20px;
+  margin-top: 10px;
+  color: #777;
+}
+h3 {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+h4 {
+  font-size: 15px;
+  font-weight: 700;
+}
+section h2 {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #f0f0f0;
+  margin-bottom: 20px;
+}
+a {
+  -webkit-transition: all 0.5s ease-out;
+  -moz-transition: all 0.5s ease-out;
+  -o-transition: all 0.5s ease-out;
+  -ms-transition: all 0.5s ease-out;
+  transition: all 0.5s ease-out;
+}
+.divider {
+  padding: 10px 20px 0 20px;
+  border-bottom: 1px solid #f0f0f0;
+  margin-bottom: 20px;
+}
+.about,
+.work,
+.education,
+.skills {
+  margin-bottom: 30px;
+}
+.skills-list li {
+  font-size: 18px;
+}
+.workDates {
+  color: #777;
+}
+.center-block {
+  display: table;
+  margin: 0 auto;
+}
+.chip {
+  display: inline-block;
+  padding: 0 15px;
+  height: 20px;
+  font-size: 14px;
+  line-height: 20px;
+  border-radius: 10px;
+  background-color: #18e9a3;
+}
+.header {
+  background: #00a5e5;
+  padding: 30px;
+}
+.footer {
+  background: #fff;
+  padding: 20px;
+}
+.li-color {
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }

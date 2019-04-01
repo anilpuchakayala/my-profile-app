@@ -1,0 +1,144 @@
+{
+  "basics": {
+    "name": "Anil Puchakayala",
+    "label": "Senior Front End Developer",
+    "picture": "https://www.dropbox.com/s/v24yfekl8zkpkyt/profile.jpg?dl=0",
+    "email": "anilpuchakayala@etteplan.com",
+    "phone": "0762231535",
+    "website": "",
+    "summary": "Anil is a Senior Software Engineer with 6 years of experience in frontend development. He has worked with all stages of the development life cycle for web applications. He is well-versed in front end libraries and JavaScript frameworks. Anil is a highly dependable Software Engineer, successful at troubleshooting and debugging. He has domain knowledge within Automotive, Banking & Finance, Telecom and Healthcare.",
+    "location": {
+      "address": "Solna",
+      "postalCode": "11111",
+      "city": "Stockholm",
+      "countryCode": "Sweden",
+      "region": "sweden"
+    }
+  },
+  "highlights": [
+    { "id": 1, "language": "Javascript", "experience": "5 Years" },
+    { "id": 2, "language": "React & Redux", "experience": "2 Years" },
+    { "id": 3, "language": "HTML & CSS", "experience": "5 Years" },
+    { "id": 4, "language": "AngularJS", "experience": "3 Years" },
+    { "id": 5, "language": "Angular", "experience": "3 Years" },
+    { "id": 6, "language": "NodeJs", "experience": "2 Years" }
+  ],
+  "work": [
+    {
+      "company": "Etteplan AB",
+      "position": "Senior Software Engineer",
+      "website": "http://etteplan.com",
+      "startDate": "2019-01-14",
+      "endDate": "",
+      "summary": "Anil was part of an inhouse team where he was responsible for building the frontend in React using Google’s Material design. The web app was for match-ing teacher competence to school vacancies.",
+      "highlights": [],
+      "tools": [
+        "Scrum",
+        "Agile",
+        "React",
+        "MaterialUI",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Redux"
+      ]
+    },
+    {
+      "company": "Scania AB",
+      "position": "Senior Front End Developer",
+      "website": "www.scania.com",
+      "startDate": "2017-05-26",
+      "endDate": "2018-12-17",
+      "summary": "Anil worked as a full stack developer for the product Sales Portal which is a global sales tool developed by Scania. He developed different modules in SPORT to make functional operations at fronted and integrating them with backend services. He was also involved with the end-to-end implementation of converting Dojo widgets to Angular directives. Anil delivered many CR’s with Zero-defect functionality.",
+      "highlights": []
+    },
+    {
+      "company": "EG Lon",
+      "position": "UI Developer",
+      "website": "http://nrma.com.au",
+      "startDate": "2014-11-01",
+      "endDate": "2016-03-01",
+      "summary": "Anil worked as a frontend developer for the product EG Lon Application which is global Employee tool developed by EG. He developed different modules in EG Lon’s application to make functional operations at frontend and integrating them with backend services. He also wrote custom components and services using typescript as well as code refactoring and did work related to bug fixes and enhancements in UI",
+      "highlights": []
+    },
+    {
+      "company": "Accenture",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2015-01-012",
+      "endDate": "2015-08-30",
+      "summary": "Anil worked as a developer for the product E-strategy Application which is global Application developed by AT&T. By using this application end users can able to see the network usage and set their limitations.He was involved in the end-to-end implementation from scratch and developed new angular directives and services. Anil was also responsible for developing to the production environment.",
+      "highlights": []
+    },
+    {
+      "company": "Cap Gemini",
+      "position": "Front End Developer",
+      "website": "",
+      "startDate": "2013-03-01",
+      "endDate": "2014-12-31",
+      "summary": "Frontend developer for the personal banking project “ABN AMRO channels” ",
+      "highlights": []
+    },
+    {
+      "company": "ABB AB",
+      "position": "Thesis worker",
+      "website": "",
+      "startDate": "2012-02-01",
+      "endDate": "2012-08-08",
+      "summary": "The main object of this thesis is to develop a wearable intelligent monitoring system that provides early warnings to the field service engineers at workplac-es and alert the supervisor outside the field. This work involved signal pro-cessing, data acquisition, data visualization and programming.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Mid Sweden university",
+      "area": "Information and Technology and Media",
+      "studyType": "Masters",
+      "startDate": "2010-01-18",
+      "endDate": "2013-02-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Front End Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "ES6",
+        "jQuery",
+        "AngularJS",
+        "Angular",
+        "React",
+        "SASS",
+        "LESS",
+        "Gulp",
+        "Grunt",
+        "AWS",
+        "Heroku",
+        "CI",
+        "CD",
+        "Bootstrap",
+        "Node",
+        "MySQL",
+        "Git",
+        "Jira",
+        "Responsive"
+      ]
+    }
+  ],
+  "languages": [
+    { "id": 1, "language": "Telugu", "fluency": "Native speaker" },
+    { "id": 2, "language": "English", "fluency": "Excellent" },
+    { "id": 3, "language": "Swedish", "fluency": "Basic" }
+  ],
+  "interests": [
+    {
+      "name": "Playing Games",
+      "keywords": []
+    }
+  ]
+}
